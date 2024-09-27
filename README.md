@@ -27,4 +27,5 @@ run with `uvicorn web.run:app --reload`
 
 https://ai-classification.onrender.com/gradio/ (no longer support)
 
-[image alt](images/demo.png)
+![demo](https://github.com/user-attachments/assets/eaa3b2c1-b2c0-4b70-9e49-d7e574f9a0cf)
+
